@@ -1,0 +1,2 @@
+class InvalidSieveClassError(Exception):
+    pass
